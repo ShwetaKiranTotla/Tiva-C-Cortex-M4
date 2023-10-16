@@ -2,29 +2,29 @@
 Microcontroller Programming on TI Tiva C Series TM4C123GH6PM, ARM Cortex M4 core
 
 ## Contents
-[Getting Started](link here)
-Code for blinking an led on the Tiva board
-<br>
-[GPIO Switch Control](link here)
-Control a switch using GPIO to turn on an LED
-<br>
-[Sequential LED](link here)
-Control a switch using GPIO to turn on an LED in a sequential pattern: Red-->Green-->Blue. Each button press turns on either red, blue or green and the next button press turns on the next LED in the sequence and so on.
-<br>
-[Delay using Systick](link here)
-Generate a delay using systick timer of the ARM Cortex M4 core.
-<br>
-[Systick and GPIO Interrupts](link here)
-Use Systick and GPIO interrupts to turn on an LED for a fixed duration.
-<br>
-[PWM control by switches]
-Generate a PWM signal whose duty cycle can be controlled by GPIO Switches.
-<br>
-[PWM control by duration] 
-Generate a PWM signal whose duty cycle can be controlled by duration of the switch press.
-<br>
-[UART]
-UART character receive and transmit using interrupts.
+[Getting Started](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/1_LED_Blink)  
+Code for blinking an led on the Tiva board  
+
+[GPIO Switch Control](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/2_GPIO_Switch_Control)  
+Control a switch using GPIO to turn on an LED  
+
+[Sequential LED](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/3_Sequential_LED)  
+Control a switch using GPIO to turn on an LED in a sequential pattern: Red-->Green-->Blue. Each button press turns on either red, blue or green and the next button press turns on the next LED in the sequence and so on.  
+
+[Delay using Systick](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/4_Systick_Delay)  
+Generate a delay using systick timer of the ARM Cortex M4 core.  
+
+[Systick and GPIO Interrupts](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/5_GPIO_Systick_Interrupts)  
+Use Systick and GPIO interrupts to turn on an LED for a fixed duration.  
+
+[PWM control by switches](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/6_PWM_Switch)  
+Generate a PWM signal whose duty cycle can be controlled by GPIO Switches.  
+
+[PWM control by duration](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/7_PWM_Duration)  
+Generate a PWM signal whose duty cycle can be controlled by duration of the switch press.  
+
+[UART](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/8_UART)  
+UART character receive and transmit using interrupts.  
 
 ## References
 1. [Systick Timer Interrupt Programming TM4C123 ARM Cortex M4](https://microcontrollerslab.com/systick-timer-interrupt-programming-tm4c123-arm-cortex-m4/)
