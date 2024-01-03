@@ -1,6 +1,10 @@
 # ARM_CortexM4
 Microcontroller Programming on TI Tiva C Series TM4C123GH6PM, ARM Cortex M4 core
-
+## Installation Guide
+This repository uses TI's Code Composer Studio to run code on the TM4C123GH6PM. The software packages are:  
+[For Windows](https://drive.google.com/drive/folders/1XO4oXxN1Qro8AKj1kSJ2egRrKwd1VQq4?usp=drive_link)  
+[For Linux/Ubuntu](https://drive.google.com/drive/folders/1Lose8u8mDRVsEM2teKaD3896w4Rmm2ii?usp=drive_link)  
+After successful installation, create a new project (with main.c) and add the board's [header file](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/blob/main/1_LED_Blink/tm4c123gh6pm.h), if not already present.
 ## Contents
 [Getting Started](https://github.com/ShwetaKiranTotla/Tiva-C-Cortex-M4/tree/main/1_LED_Blink)  
 Code for blinking an led on the Tiva board  
