@@ -35,7 +35,9 @@ UART character receive and transmit using interrupts.
 2. [GPIO Interrupts TM4C123 Tiva Launchapd - Edge Triggered and Level](https://microcontrollerslab.com/gpio-interrupts-tm4c123-tiva-launchpad-edge-level-triggered/)
 3. [Using SysTick with Interrupt | Embedded systems](https://labs.dese.iisc.ac.in/embeddedlab/using-systick-with-interrupt/)
 4. [LuisAfonso95/TM4C123-Launchpad-Examples](https://github.com/LuisAfonso95/TM4C123-Launchpad-Examples/tree/master)
-5. [LPC1768: SysTick Timer - Tutorials](https://www.exploreembedded.com/wiki/LPC1768:_SysTick_Timer)
-6. [Starter files for embedded systems](https://users.ece.utexas.edu/~valvano/arm/)
-7. https://users.ece.utexas.edu/~valvano/arm/tm4c123gh6pm.s  
+5. [YashBansod/ARM-TM4C-CCS: This repository contains all my practice codes of TM4C123GXL coded in CCS7](https://github.com/YashBansod/ARM-TM4C-CCS)
+6. [Understanding the Clock in TM4C123 Series Microcontroller - Kitflix](https://kitflix.com/understanding-the-clock-in-tm4c123-series-microcontroller/)
+7. [LPC1768: SysTick Timer - Tutorials](https://www.exploreembedded.com/wiki/LPC1768:_SysTick_Timer)
+8. [Starter files for embedded systems](https://users.ece.utexas.edu/~valvano/arm/)
+9. https://users.ece.utexas.edu/~valvano/arm/tm4c123gh6pm.s  
 
